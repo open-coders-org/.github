@@ -1,7 +1,12 @@
 <p align="center"> 
-<img alt='OpenCoders' src='/profile/assets/logo.png'/>
 
-# OpenCoders
+<table align="center">
+  <tr>
+    <td valign="top"><img alt='OpenCoders' src='/profile/assets/logo.png' width="100"/></td>
+    <td valign="top"><h1>Open Coders</h1></td>
+  </tr>
+</table>
+
 
 </p>
 
